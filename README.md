@@ -1,4 +1,4 @@
 # JARVIS
 
-[](./BigPicture.png)
-[](./TaskEngine.png)
+![Big Picture](./BigPicture.png)
+![Task Engine](./TaskEngine.png)
