@@ -10,7 +10,7 @@ The goal of this project is to create a virtual assistant that rivals the curren
 2. [Task Engine]()
 3. [Conversational Engine]()
 4. [Response Handler]()
-5. [Text To Speech (TTS)]()
+5. [Text To Speech (TTS)](https://github.com/mrrosoff/WaveNet-TTS)
 
 The following is a diagram descriping their composition into the project as a whole.
 
